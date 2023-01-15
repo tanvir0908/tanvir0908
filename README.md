@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tanvir Hasan Emon</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="coding" width="800" height="600" style="align-center">
+### Hi there 👋, I'm Tanvir Hasan Emon.
+#### I am a Software Engineer.
+![I am a Software Engineer.]
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+I am a Computer Science graduate. I have completed my bachelor's major in Software Engineering and Machine Learning. Now I am working as a Support Engineer at the Department of Women's Affairs. I am learning Full Stack Web Development and App Development.
+(https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
+Skills: HTML | CSS | Bootstrap | C | Java | Python | Data Structure | Algorithms | Machine Learning | Software Engineering | Operating System.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on Support Engineer Intern at Department of Women Affairs. 
+- 🌱 I’m currently learning Full Stack Web Development. 
+- 💬 Ask me about Programing, Data Structure, Algorithms, Machine Learning, Software Engineering. 
+- 📫 How to reach me: memon181077@bscse.uiu.ac.bd 
 
-- 👨‍💻 All of my projects are available at [https://tanvir0908.github.io/Tanvir_Hasan_Emon_Personal_Site/](https://tanvir0908.github.io/Tanvir_Hasan_Emon_Personal_Site/)
 
-- 💬 Ask me about **Data Structure, Algorithms, Java, Python, Machine Learning**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tanvir0908)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvir-hasan-emon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m.me/tanvir.emon.353)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanvir0908.github.io/Tanvir_Hasan_Emon_Personal_Site/)  
 
-- 📫 How to reach me **memon181077@bscse.uiu.ac.bd**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir0908)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanvir-hasan-emon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvir-hasan-emon/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir0908&show_icons=true&locale=en&layout=compact" alt="tanvir0908" /></p>
+![Profile views](https://gpvc.arturio.dev/tanvir0908)  
