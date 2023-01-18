@@ -1,4 +1,3 @@
-<img src="Black Minimal Business Personal Profile Linkedin Banner.png" alt="hello">
 ### Hi there 👋, I'm Tanvir Hasan Emon.
 #### I am a Software Engineer.
 
