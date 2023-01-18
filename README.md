@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Tanvir Hasan Emon.
 #### I am a Software Engineer.
-![I am a Software Engineer.](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
+![I am a Software Engineer.]
 
 I am a Computer Science graduate. I have completed my bachelor's major in Software Engineering and Machine Learning. Now I am working as a Support Engineer at the Department of Women's Affairs. I am learning Full Stack Web Development and App Development.
+
+(https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 
 Skills: HTML | CSS | Bootstrap | C | Java | Python | Data Structure | Algorithms | Machine Learning | Software Engineering | Operating System.
 
