@@ -1,19 +1,20 @@
 <img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/main/github_cover.png" />
 
 ## 📈 Present statistics
+
 <br />
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=tanvir0908&theme=midnight-purple" />
 </p>
 
-## Technologies that I am familiar with
+## 💻 Technologies that I am familiar with
+
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+<img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/HTML.svg"/>
+<img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/CSS.svg"/>
+<img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/TailwindCSS-Dark.svg"/>
+<img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/JavaScript.svg"/>
+<img src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/React-Dark.svg"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
