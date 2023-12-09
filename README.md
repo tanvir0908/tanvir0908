@@ -10,11 +10,11 @@
 ## 💻 Technologies that I am familiar with
 
 <p align="center">
-<img width='100px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/HTML.svg"/>
-<img width='100px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/CSS.svg"/>
-<img width='100px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/TailwindCSS-Dark.svg"/>
-<img width='100px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/JavaScript.svg"/>
-<img width='100px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/React-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/HTML.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/CSS.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/TailwindCSS-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/JavaScript.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/React-Dark.svg"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
