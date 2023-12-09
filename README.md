@@ -17,17 +17,15 @@
 <img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/8476a049e64424562434a64deb988d7da8cfa886/assets/icons/React-Dark.svg"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/527dd6caccc62f3eba689d3a121c7a8c36d4b421/assets/icons/Firebase-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/NodeJS-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/ExpressJS-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/MongoDB.svg"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/C.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/Java-Dark.svg"/>
+<img width='60px' src="https://raw.githubusercontent.com/tanvir0908/tanvir0908/96a0e05d57cc257c91581a02cc5114ced47f9fcd/assets/icons/Python-Dark.svg"/>
 </p><br/>
 
 🎓 Computer Science and Engineering graduate with a passion for crafting robust, user-friendly software solutions. I specialize in the MERN stack, with expertise in React, React Router, Tailwind CSS, and Firebase.
